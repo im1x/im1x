@@ -1,5 +1,5 @@
 <div align="center">
-  <h2><i>Fought the Java GC, wrestled with C++ pointers, made peace with Go's simplicity,<br>surrendered to Rust's borrow checker, and bowed to TypeScript's type gymnastics.</i></h2>
+  <h2><i>Fought the Java GC, wrestled with C++ pointers, made peace with Go's simplicity, surrendered to Rust's borrow checker, and bowed to TypeScript's type gymnastics.</i></h2>
 </div>
 
 <br>
@@ -73,7 +73,7 @@
 
 <div align="center">
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=im1x&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=im1x&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="220" alt="languages graph"  />
 </div>
 </div>
 
